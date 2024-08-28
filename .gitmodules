@@ -1,0 +1,3 @@
+[submodule "external-lp-repo"]
+	path = external-lp-repo
+	url = https://git.launchpad.net/~deltanboi/+git/external-lp-repo
